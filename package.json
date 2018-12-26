@@ -1,12 +1,21 @@
 {
-  "name": "@VasimHayat/MVDateFormatter",
-  "version": "1.0.0",
+  "name": "mvdateformatter",
+  "Email":"vasimhayat007@gmail.com",
+  "version": "1.1.0",
   "description": "Date formatter for js",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/VasimHayat/MVDateFormatter.git"
+  },
+  "author":
+  { "name" : "Vasim Hayat"
+    , "email" : "vasimhayat007@gmail.com"
+    , "url" : "https://github.com/VasimHayat/MVDateFormatter"
+    },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": ["npm","Date Formater","Js Date Formatter"], 
+  "license": "MIS"
 }

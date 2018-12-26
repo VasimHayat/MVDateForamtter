@@ -1,7 +1,7 @@
 # MVDateForamtter
 MVDateForamtter
 
-Install -  npm i mvdateformatter
+Install - npm i mvdateformatters
 
 Use - new Date().format("m/d/y");
 

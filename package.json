@@ -1,7 +1,7 @@
 {
-  "name": "mvdateformatter",
+  "name": "mvdateformatters",
   "Email":"vasimhayat007@gmail.com",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Date formatter for js",
    "repository": {
     "type": "git",
@@ -16,6 +16,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["npm","Date Formater","Js Date Formatter"], 
+  "keywords": ["Date","Date Formater","Js Date Formatter"], 
   "license": "MIS"
 }
